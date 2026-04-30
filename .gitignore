@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/ipumsi_00002.csv
+
+outputs/**/*
+!outputs/**/.gitkeep
+
+data/interim/**/*
+!data/interim/**/.gitkeep
+
+data/processed/**/*
+!data/processed/**/.gitkeep

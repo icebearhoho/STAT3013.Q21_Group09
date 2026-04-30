@@ -1,0 +1,37 @@
+
+---
+
+# `metadata/variable_dictionary.csv`
+
+```csv
+variable_name,level,dtype,description,use_in_analysis
+YEAR,both,int,survey year,1
+SERIAL,household,string,household id,1
+PERNUM,person,int,person number within household,1
+HHWT,household,float,household weight,1
+PERWT,person,float,person weight,1
+URBAN,household,category,urban rural indicator,1
+GEO1_VN,household,category,province or first admin division,1
+OWNERSHIP,household,category,ownership,1
+OWNERSHIPD,household,category,detailed ownership,1
+ELECTRIC,household,category,electricity access,1
+WATSUP,household,category,water supply,1
+SEWAGE,household,category,sanitation,1
+FUELCOOK,household,category,cooking fuel,0
+AUTOS,household,float,number of cars,1
+MOTORCYCLE,household,float,number of motorcycles,1
+ROOMS,household,float,number of rooms,1
+BEDROOMS,household,float,number of bedrooms,1
+WALL,household,category,wall material,1
+ROOF,household,category,roof material,1
+LIVEAREA,household,float,living area,1
+NCHILD,person,float,number of children in household,0
+AGE,person,float,age,1
+SEX,person,category,sex,1
+MARST,person,category,marital status,0
+MARSTD,person,category,detailed marital status,0
+CHBORN,person,float,children ever born,0
+EDATTAIN,person,category,education attainment,1
+EDATTAIND,person,category,detailed education attainment,0
+CLASSWK,person,category,class of worker,1
+CLASSWKD,person,category,detailed class of worker,0

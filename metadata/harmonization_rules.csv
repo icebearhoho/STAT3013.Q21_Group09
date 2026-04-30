@@ -1,0 +1,8 @@
+variable_name,year,original_code,harmonized_code,harmonized_label
+URBAN,ALL,1,1,urban
+URBAN,ALL,2,0,rural
+ELECTRIC,ALL,1,1,yes
+ELECTRIC,ALL,2,0,no
+OWNERSHIP,ALL,1,1,owned
+OWNERSHIP,ALL,2,2,rented
+OWNERSHIP,ALL,3,3,other
