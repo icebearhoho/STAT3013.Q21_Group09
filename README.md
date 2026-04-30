@@ -16,7 +16,7 @@ Research-grade Python project for studying long-run socioeconomic change in Viet
 - benchmark ML, DL, Bayesian Network, clustering, and anomaly models
 - generate research tables, figures, and a static dashboard
 
-### Demo video
+### Link manifest
 
 - [Demo video](https://docs.google.com/document/d/16SBqCxc2bjI3q8NuLhUzL6De8Hg0-O7gfuDEzlTahRA/edit?usp=sharing)
 - [Dataset](https://docs.google.com/document/d/16SBqCxc2bjI3q8NuLhUzL6De8Hg0-O7gfuDEzlTahRA/edit?usp=sharing)
