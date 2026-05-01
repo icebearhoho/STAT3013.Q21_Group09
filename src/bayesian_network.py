@@ -154,7 +154,7 @@ def run_bayesian_network_analysis(
     search = HillClimbSearch(train_df)
     learned = search.estimate()
     model = DiscreteBayesianNetwork(learned.edges())
-    model.fit(train_df, estimator=BayesianEstimator, prior_type="BDeu")
+    model.fit(train_df)
     inference = VariableElimination(model)
 
     preds = []
